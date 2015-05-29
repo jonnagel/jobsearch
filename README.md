@@ -6,3 +6,7 @@ a person who is using "machine learning" or the expert
 in Excel analytics from the billion row data miner. 
 The following python code is an attempt to separate 
 the wheat from the chaff.
+
+The job data came from indeed, they have a very nice 
+API that provides json results. It's only a few lines
+of code to get this into a document database.
