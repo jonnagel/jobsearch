@@ -11,4 +11,4 @@ The job data came from indeed, they have a nice
 API that provides json results. It's only a few lines
 of code to get this into a document database.
 
-Please see the <a href="blob/master/jobsearch.ipynb">ipython notebook</a> for this project. 
+Please see the <a href="jobsearch.ipynb">ipython notebook</a> for this project. 
